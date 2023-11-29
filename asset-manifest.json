@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cpay-build/static/css/main.e5bd5202.chunk.css",
-    "main.js": "/cpay-build/static/js/main.fbc96bd8.chunk.js",
-    "main.js.map": "/cpay-build/static/js/main.fbc96bd8.chunk.js.map",
-    "runtime-main.js": "/cpay-build/static/js/runtime-main.83fe4e2f.js",
-    "runtime-main.js.map": "/cpay-build/static/js/runtime-main.83fe4e2f.js.map",
-    "static/js/2.a5b9663a.chunk.js": "/cpay-build/static/js/2.a5b9663a.chunk.js",
-    "static/js/2.a5b9663a.chunk.js.map": "/cpay-build/static/js/2.a5b9663a.chunk.js.map",
-    "static/js/3.bfe2f7d1.chunk.js": "/cpay-build/static/js/3.bfe2f7d1.chunk.js",
-    "static/js/3.bfe2f7d1.chunk.js.map": "/cpay-build/static/js/3.bfe2f7d1.chunk.js.map",
-    "index.html": "/cpay-build/index.html",
-    "static/css/main.e5bd5202.chunk.css.map": "/cpay-build/static/css/main.e5bd5202.chunk.css.map",
-    "static/js/2.a5b9663a.chunk.js.LICENSE.txt": "/cpay-build/static/js/2.a5b9663a.chunk.js.LICENSE.txt"
+    "main.css": "/CPayApp/static/css/main.e5bd5202.chunk.css",
+    "main.js": "/CPayApp/static/js/main.fbc96bd8.chunk.js",
+    "main.js.map": "/CPayApp/static/js/main.fbc96bd8.chunk.js.map",
+    "runtime-main.js": "/CPayApp/static/js/runtime-main.47fcea6e.js",
+    "runtime-main.js.map": "/CPayApp/static/js/runtime-main.47fcea6e.js.map",
+    "static/js/2.a5b9663a.chunk.js": "/CPayApp/static/js/2.a5b9663a.chunk.js",
+    "static/js/2.a5b9663a.chunk.js.map": "/CPayApp/static/js/2.a5b9663a.chunk.js.map",
+    "static/js/3.bfe2f7d1.chunk.js": "/CPayApp/static/js/3.bfe2f7d1.chunk.js",
+    "static/js/3.bfe2f7d1.chunk.js.map": "/CPayApp/static/js/3.bfe2f7d1.chunk.js.map",
+    "index.html": "/CPayApp/index.html",
+    "static/css/main.e5bd5202.chunk.css.map": "/CPayApp/static/css/main.e5bd5202.chunk.css.map",
+    "static/js/2.a5b9663a.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.a5b9663a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83fe4e2f.js",
+    "static/js/runtime-main.47fcea6e.js",
     "static/js/2.a5b9663a.chunk.js",
     "static/css/main.e5bd5202.chunk.css",
     "static/js/main.fbc96bd8.chunk.js"
