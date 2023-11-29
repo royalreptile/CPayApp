@@ -1,0 +1,15 @@
+@use '../abstracts/variables' as *;
+
+.top-bar{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    height: 96px;
+    img{
+        width: 86px;
+        height: 86px;
+    }
+}

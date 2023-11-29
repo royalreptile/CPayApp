@@ -1,0 +1,67 @@
+@use '../abstracts/variables' as *;
+
+
+.input-group,.surfix{
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-top: 15px;
+    padding :5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+
+}
+.surfix{
+    display: flex;
+    flex-direction: row;
+    background: none;
+    align-items: stretch;
+
+
+    
+    padding: 0px;
+    div{
+        background-color: white;
+        border-radius: 5px;
+        margin:0px;
+        padding-left: 5px;
+        
+    }
+    .form-select{
+        max-height:100%;
+        background-color:white;
+        padding:0%;
+        width :40%;
+        margin-left:auto;
+
+    }
+    .input-group{
+        margin:0px;
+    }
+
+}
+.input-feild{
+    border: none;
+    background-color: white;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    padding: 5px;
+
+}
+.input-group-addon{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    
+}
+.in-row{
+    max-width: 60%;
+    div{
+        padding-left:0px;
+        
+    }
+}

@@ -1,0 +1,21 @@
+@use '../abstracts/variables' as *;
+
+.progress-bar-main{
+    margin-top :20px;
+    width: 100%;
+}
+.progress-bar{
+    height: 4px;
+    background-color: white;
+    border-radius : 3px;
+}
+.progress-custom{
+    display: flex;
+
+    div{
+        height: 24.5px;
+        width: 20%;
+        visibility: hidden;
+        background-color: $primary-color;
+    }
+}

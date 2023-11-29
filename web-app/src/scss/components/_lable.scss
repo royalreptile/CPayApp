@@ -1,0 +1,16 @@
+@use '../abstracts/variables' as *;
+
+.label{
+    align-items: center;
+    text-align: center;
+}
+.info{
+    align-items: end;
+    margin-top : 15px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -10px;
+}
+.lable-div{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,97 @@
+
+
+// Custom.scss
+
+// Option B: Include parts of Bootstrap
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "../node_modules/bootstrap/scss/functions";
+
+// 2. Include any default variable overrides here
+
+
+$text-color : black;
+$background-color : white;
+$primary-color :rgb(153, 221, 240);
+$secondary-color :blue;
+$body-bg :rgb(153, 221, 240);
+
+ $form-select-padding-y:             0px;
+// $form-select-padding-x:             $input-padding-x;
+// $form-select-font-family:           $input-font-family;
+// $form-select-font-size:             $input-font-size;
+// $form-select-indicator-padding:     $form-select-padding-x * 3; // Extra padding for background-image
+// $form-select-font-weight:           $input-font-weight;
+// $form-select-line-height:           $input-line-height;
+// $form-select-color:                 $input-color;
+// $form-select-bg:                    $input-bg;
+// $form-select-disabled-color:        null;
+// $form-select-disabled-bg:           $input-disabled-bg;
+// $form-select-disabled-border-color: $input-disabled-border-color;
+// $form-select-bg-position:           right $form-select-padding-x center;
+// $form-select-bg-size:               16px 12px; // In pixels because image dimensions
+// $form-select-indicator-color:       $gray-800;
+// $form-select-indicator:             url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path fill='none' stroke='#{$form-select-indicator-color}' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/></svg>");
+
+// $form-select-feedback-icon-padding-end: $form-select-padding-x * 2.5 + $form-select-indicator-padding;
+// $form-select-feedback-icon-position:    center right $form-select-indicator-padding;
+// $form-select-feedback-icon-size:        $input-height-inner-half $input-height-inner-half;
+
+// $form-select-border-width:        $input-border-width;
+// $form-select-border-color:        $input-border-color;
+// $form-select-border-radius:       $input-border-radius;
+// $form-select-box-shadow:          var(--#{$prefix}box-shadow-inset);
+
+// $form-select-focus-border-color:  $input-focus-border-color;
+// $form-select-focus-width:         $input-focus-width;
+// $form-select-focus-box-shadow:    0 0 0 $form-select-focus-width $input-btn-focus-color;
+
+$form-select-padding-y-sm:        5px;
+//  $form-select-padding-x-sm:        $input-padding-x-sm;
+// $form-select-font-size-sm:        $input-font-size-sm;
+// $form-select-border-radius-sm:    $input-border-radius-sm;
+
+$form-select-padding-y-lg:        5px;
+// $form-select-padding-x-lg:        $input-padding-x-lg;
+// $form-select-font-size-lg:        $input-font-size-lg;
+// $form-select-border-radius-lg:    $input-border-radius-lg;
+
+// $form-select-transition:          $input-transition;
+
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);
+
+
+// 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+
+
+// 4. Include any default map overrides here
+
+// 5. Include remainder of required parts
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+@import '~bootstrap/scss/bootstrap';
+
+
+// 6. Optionally include any other parts as needed
+@import "../node_modules/bootstrap/scss/utilities";
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+@import "../node_modules/bootstrap/scss/images";
+@import "../node_modules/bootstrap/scss/containers";
+@import "../node_modules/bootstrap/scss/grid";
+@import "../node_modules/bootstrap/scss/helpers";
+
+// 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+@import "../node_modules/bootstrap/scss/utilities/api";
+
+// 8. Add additional custom code here
