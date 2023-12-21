@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/CPayApp/static/css/main.f6202621.chunk.css",
-    "main.js": "/CPayApp/static/js/main.e037643a.chunk.js",
-    "main.js.map": "/CPayApp/static/js/main.e037643a.chunk.js.map",
-    "runtime-main.js": "/CPayApp/static/js/runtime-main.5a7404ea.js",
-    "runtime-main.js.map": "/CPayApp/static/js/runtime-main.5a7404ea.js.map",
-    "static/js/2.f9e02900.chunk.js": "/CPayApp/static/js/2.f9e02900.chunk.js",
-    "static/js/2.f9e02900.chunk.js.map": "/CPayApp/static/js/2.f9e02900.chunk.js.map",
-    "static/js/3.90140e2b.chunk.js": "/CPayApp/static/js/3.90140e2b.chunk.js",
-    "static/js/3.90140e2b.chunk.js.map": "/CPayApp/static/js/3.90140e2b.chunk.js.map",
+    "main.js": "/CPayApp/static/js/main.9edd4d76.chunk.js",
+    "main.js.map": "/CPayApp/static/js/main.9edd4d76.chunk.js.map",
+    "runtime-main.js": "/CPayApp/static/js/runtime-main.58b2fe11.js",
+    "runtime-main.js.map": "/CPayApp/static/js/runtime-main.58b2fe11.js.map",
+    "static/js/2.d8810bef.chunk.js": "/CPayApp/static/js/2.d8810bef.chunk.js",
+    "static/js/2.d8810bef.chunk.js.map": "/CPayApp/static/js/2.d8810bef.chunk.js.map",
+    "static/js/3.be07d937.chunk.js": "/CPayApp/static/js/3.be07d937.chunk.js",
+    "static/js/3.be07d937.chunk.js.map": "/CPayApp/static/js/3.be07d937.chunk.js.map",
     "index.html": "/CPayApp/index.html",
     "static/css/main.f6202621.chunk.css.map": "/CPayApp/static/css/main.f6202621.chunk.css.map",
-    "static/js/2.f9e02900.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.f9e02900.chunk.js.LICENSE.txt",
+    "static/js/2.d8810bef.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.d8810bef.chunk.js.LICENSE.txt",
     "static/media/plane.d03933c6.png": "/CPayApp/static/media/plane.d03933c6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a7404ea.js",
-    "static/js/2.f9e02900.chunk.js",
+    "static/js/runtime-main.58b2fe11.js",
+    "static/js/2.d8810bef.chunk.js",
     "static/css/main.f6202621.chunk.css",
-    "static/js/main.e037643a.chunk.js"
+    "static/js/main.9edd4d76.chunk.js"
   ]
 }
