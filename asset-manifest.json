@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/CPayApp/static/css/main.f6202621.chunk.css",
-    "main.js": "/CPayApp/static/js/main.9edd4d76.chunk.js",
-    "main.js.map": "/CPayApp/static/js/main.9edd4d76.chunk.js.map",
+    "main.js": "/CPayApp/static/js/main.36a9d8c4.chunk.js",
+    "main.js.map": "/CPayApp/static/js/main.36a9d8c4.chunk.js.map",
     "runtime-main.js": "/CPayApp/static/js/runtime-main.58b2fe11.js",
     "runtime-main.js.map": "/CPayApp/static/js/runtime-main.58b2fe11.js.map",
-    "static/js/2.d8810bef.chunk.js": "/CPayApp/static/js/2.d8810bef.chunk.js",
-    "static/js/2.d8810bef.chunk.js.map": "/CPayApp/static/js/2.d8810bef.chunk.js.map",
+    "static/js/2.dd1ea1d9.chunk.js": "/CPayApp/static/js/2.dd1ea1d9.chunk.js",
+    "static/js/2.dd1ea1d9.chunk.js.map": "/CPayApp/static/js/2.dd1ea1d9.chunk.js.map",
     "static/js/3.be07d937.chunk.js": "/CPayApp/static/js/3.be07d937.chunk.js",
     "static/js/3.be07d937.chunk.js.map": "/CPayApp/static/js/3.be07d937.chunk.js.map",
     "index.html": "/CPayApp/index.html",
     "static/css/main.f6202621.chunk.css.map": "/CPayApp/static/css/main.f6202621.chunk.css.map",
-    "static/js/2.d8810bef.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.d8810bef.chunk.js.LICENSE.txt",
+    "static/js/2.dd1ea1d9.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.dd1ea1d9.chunk.js.LICENSE.txt",
     "static/media/plane.d03933c6.png": "/CPayApp/static/media/plane.d03933c6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58b2fe11.js",
-    "static/js/2.d8810bef.chunk.js",
+    "static/js/2.dd1ea1d9.chunk.js",
     "static/css/main.f6202621.chunk.css",
-    "static/js/main.9edd4d76.chunk.js"
+    "static/js/main.36a9d8c4.chunk.js"
   ]
 }
