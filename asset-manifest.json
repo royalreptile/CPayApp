@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CPayApp/static/css/main.f6202621.chunk.css",
-    "main.js": "/CPayApp/static/js/main.055baf11.chunk.js",
-    "main.js.map": "/CPayApp/static/js/main.055baf11.chunk.js.map",
+    "main.js": "/CPayApp/static/js/main.8bf21b9b.chunk.js",
+    "main.js.map": "/CPayApp/static/js/main.8bf21b9b.chunk.js.map",
     "runtime-main.js": "/CPayApp/static/js/runtime-main.58b2fe11.js",
     "runtime-main.js.map": "/CPayApp/static/js/runtime-main.58b2fe11.js.map",
     "static/js/2.dd1ea1d9.chunk.js": "/CPayApp/static/js/2.dd1ea1d9.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.58b2fe11.js",
     "static/js/2.dd1ea1d9.chunk.js",
     "static/css/main.f6202621.chunk.css",
-    "static/js/main.055baf11.chunk.js"
+    "static/js/main.8bf21b9b.chunk.js"
   ]
 }
