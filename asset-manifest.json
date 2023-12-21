@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CPayApp/static/css/main.070b469a.chunk.css",
-    "main.js": "/CPayApp/static/js/main.2ebb3500.chunk.js",
-    "main.js.map": "/CPayApp/static/js/main.2ebb3500.chunk.js.map",
-    "runtime-main.js": "/CPayApp/static/js/runtime-main.31ff33a7.js",
-    "runtime-main.js.map": "/CPayApp/static/js/runtime-main.31ff33a7.js.map",
-    "static/js/2.7649b4e6.chunk.js": "/CPayApp/static/js/2.7649b4e6.chunk.js",
-    "static/js/2.7649b4e6.chunk.js.map": "/CPayApp/static/js/2.7649b4e6.chunk.js.map",
-    "static/js/3.fcfefe78.chunk.js": "/CPayApp/static/js/3.fcfefe78.chunk.js",
-    "static/js/3.fcfefe78.chunk.js.map": "/CPayApp/static/js/3.fcfefe78.chunk.js.map",
+    "main.css": "/CPayApp/static/css/main.f6202621.chunk.css",
+    "main.js": "/CPayApp/static/js/main.194425f8.chunk.js",
+    "main.js.map": "/CPayApp/static/js/main.194425f8.chunk.js.map",
+    "runtime-main.js": "/CPayApp/static/js/runtime-main.5a7404ea.js",
+    "runtime-main.js.map": "/CPayApp/static/js/runtime-main.5a7404ea.js.map",
+    "static/js/2.f9e02900.chunk.js": "/CPayApp/static/js/2.f9e02900.chunk.js",
+    "static/js/2.f9e02900.chunk.js.map": "/CPayApp/static/js/2.f9e02900.chunk.js.map",
+    "static/js/3.90140e2b.chunk.js": "/CPayApp/static/js/3.90140e2b.chunk.js",
+    "static/js/3.90140e2b.chunk.js.map": "/CPayApp/static/js/3.90140e2b.chunk.js.map",
     "index.html": "/CPayApp/index.html",
-    "static/css/main.070b469a.chunk.css.map": "/CPayApp/static/css/main.070b469a.chunk.css.map",
-    "static/js/2.7649b4e6.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.7649b4e6.chunk.js.LICENSE.txt",
+    "static/css/main.f6202621.chunk.css.map": "/CPayApp/static/css/main.f6202621.chunk.css.map",
+    "static/js/2.f9e02900.chunk.js.LICENSE.txt": "/CPayApp/static/js/2.f9e02900.chunk.js.LICENSE.txt",
     "static/media/plane.d03933c6.png": "/CPayApp/static/media/plane.d03933c6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.31ff33a7.js",
-    "static/js/2.7649b4e6.chunk.js",
-    "static/css/main.070b469a.chunk.css",
-    "static/js/main.2ebb3500.chunk.js"
+    "static/js/runtime-main.5a7404ea.js",
+    "static/js/2.f9e02900.chunk.js",
+    "static/css/main.f6202621.chunk.css",
+    "static/js/main.194425f8.chunk.js"
   ]
 }
