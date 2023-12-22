@@ -3,9 +3,9 @@ let SIGNUP,WELCOME,LOGIN,GETSTARTED,VERIFYAGE,ENTERLASTFOURDIGITS,TELLUSMORE,UPL
 
 if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
     // dev code
-     SIGNUP = '/sign-up';
+     SIGNUP = 'sign-up';
      WELCOME = '/';
-     LOGIN = '/login';
+     LOGIN = 'login';
      GETSTARTED = '/get-started';
      VERIFYAGE = '/verify-age';
      ENTERLASTFOURDIGITS = '/enter-last-four-digits';
