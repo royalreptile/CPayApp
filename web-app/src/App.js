@@ -11,7 +11,7 @@ if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
   home = '';
 } else {
   // home = '/CPayApp'
-  home= '/web-app/build'
+  home= ''
 }
 console.log('home ', home);
 function App() {
