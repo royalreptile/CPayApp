@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-app/build/static/css/main.f6202621.chunk.css",
+    "main.js": "/web-app/build/static/js/main.e898f4bf.chunk.js",
+    "main.js.map": "/web-app/build/static/js/main.e898f4bf.chunk.js.map",
+    "runtime-main.js": "/web-app/build/static/js/runtime-main.a9464ea6.js",
+    "runtime-main.js.map": "/web-app/build/static/js/runtime-main.a9464ea6.js.map",
+    "static/js/2.dd1ea1d9.chunk.js": "/web-app/build/static/js/2.dd1ea1d9.chunk.js",
+    "static/js/2.dd1ea1d9.chunk.js.map": "/web-app/build/static/js/2.dd1ea1d9.chunk.js.map",
+    "static/js/3.be07d937.chunk.js": "/web-app/build/static/js/3.be07d937.chunk.js",
+    "static/js/3.be07d937.chunk.js.map": "/web-app/build/static/js/3.be07d937.chunk.js.map",
+    "index.html": "/web-app/build/index.html",
+    "static/css/main.f6202621.chunk.css.map": "/web-app/build/static/css/main.f6202621.chunk.css.map",
+    "static/js/2.dd1ea1d9.chunk.js.LICENSE.txt": "/web-app/build/static/js/2.dd1ea1d9.chunk.js.LICENSE.txt",
+    "static/media/plane.d03933c6.png": "/web-app/build/static/media/plane.d03933c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9464ea6.js",
+    "static/js/2.dd1ea1d9.chunk.js",
+    "static/css/main.f6202621.chunk.css",
+    "static/js/main.e898f4bf.chunk.js"
+  ]
+}
