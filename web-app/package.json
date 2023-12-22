@@ -1,6 +1,6 @@
 {
   "name": "web-app",
-  "homepage": ".",
+  "homepage": "https://cpayapp.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
