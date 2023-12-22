@@ -1,0 +1,65 @@
+@use '../abstracts/variables' as *;
+
+.welcome{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    .logo{
+        width: 100%;
+        display: flex;
+        flex-direction: row-reverse;
+        img{
+            height: 62px;
+            margin:22px;
+        }
+    }
+    .plane{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        align-content: center;
+        img{
+
+            width: 112px;
+            height: 112px;
+            margin :32px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+    .lable{
+        text-align: center;
+        margin-bottom: 64px;
+    }
+    .logo-image{
+        display: flex;
+        flex-direction: row;
+
+        margin-left:auto;
+        margin-right:auto;
+        img{
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 130px;
+            margin-bottom: 60px;
+        }
+    }
+    .button-row{
+        display:flex;
+        flex-direction: row;
+        div{
+            padding:0px 15px;
+            width: 50%;
+            margin:0px
+            div{
+                width:100%;
+            }
+    
+        }
+        .button-next{
+            margin:0px;
+            width :100%;
+        }
+    }
+}

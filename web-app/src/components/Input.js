@@ -2,15 +2,15 @@ import React from 'react';
 
 
 
-const Input = ({childSvg,placeHolder,classes=[]}) => {
+const Input = ({childSvg,placeHolder,classes=[],onChange=()=>{},onBlur=()=>{}}) => {
     return  (
-        <div class={"row enter-name-row-gap first-row-gap " + classes.join(" ")}>
-            <div class="col-12">
-                <div class="input-group">
-                    <span class="input-group-addon">
+        <div className={"row enter-name-row-gap first-row-gap " + classes.join(" ")}>
+            <div className="col-12">
+                <div className="input-group">
+                    <span className="input-group-addon">
                     {childSvg()}
             </span>
-                <input type="text" maxlength="50" placeholder={placeHolder} class="form-control input-feild"></input>
+                <input type="text" maxLength="50" placeholder={placeHolder} className="form-control input-feild" onChange={onChange} onBlur={onBlur}></input>
             </div>
             </div>
         </div>

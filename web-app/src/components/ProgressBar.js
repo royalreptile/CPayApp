@@ -1,5 +1,5 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+
 
 
 const ProgressBar = () => {
@@ -21,11 +21,7 @@ const ProgressBar = () => {
             </div>
         </div>
     );
-{ /**  return (
-        <div class="progress mb-3 progress-bar-element" style={{height: 4}}>
-            <div role="progressbar" aria-valuemin={0} aria-valuemax= {100}aria-valuenow={20} class="progress-bar" style={{width: 20}}></div>
-        </div>
-    )*/}
+
 };
 
 

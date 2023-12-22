@@ -1,0 +1,5 @@
+{
+    "plugins": ["@babel/plugin-transform-nullish-coalescing-operator",
+    "@babel/plugin-transform-logical-assignment-operators",
+    "@babel/plugin-proposal-private-property-in-object"]
+  }

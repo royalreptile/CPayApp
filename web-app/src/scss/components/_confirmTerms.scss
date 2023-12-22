@@ -1,0 +1,22 @@
+@use '../abstracts/variables' as *;
+
+.confirm-terms{
+
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-top: 15px;
+    padding :5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    display :flex;
+    flex-direction: row;
+
+
+    input{
+        background-color: none;
+    }
+}
+.check{
+    margin-right: 32px;
+}

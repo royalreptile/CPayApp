@@ -1,0 +1,19 @@
+@use '../abstracts/variables' as *;
+
+.create-pin{
+    padding-top: 15px;
+    h1{
+        margin-bottom: 15px;
+    }
+    p{
+        margin-bottom: 15px;
+    }
+   text-align: center;
+   .pin-lable{
+    
+
+        margin-bottom: 0;
+    
+   }
+
+}

@@ -1,0 +1,49 @@
+@use '../abstracts/variables' as *;
+
+.lable{
+    margin-top:50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.input-row{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 5px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    span{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+    }
+    .form-span{
+        width:-webkit-fill-available;
+        width:  -moz-available;
+    }
+}
+.remember-me{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+
+
+
+}
+.info-ico{
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 5%;
+}
+.forgot{
+    margin-left: auto;
+}
