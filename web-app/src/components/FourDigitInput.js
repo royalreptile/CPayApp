@@ -1,13 +1,13 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 
-const FourDigitInput = ({ focus = false }) => {
+const FourDigitInput = ({ /*focus = false */ }) => {
   //Initialize input box focus
   // const [box1, setBox1] = useState(false);
   // const [box2, setBox2] = useState(false);
   // const [box3, setBox3] = useState(false);
   // const [box4, setBox4] = useState(false);
 
-  const [boxes, setBoxes] = useState([true,false,false,false])
+  // const [boxes, setBoxes] = useState([true,false,false,false])
   //focus previous input if box deleted and focus next if box filled
 
   let box1;

@@ -6,10 +6,11 @@ const handleBlur = (handler) => {
     return handle
 }
 
-export function handleChange(handler, ref){
+export function handleChange(handler, ref,stateUpdateFunction=(value)=>{}){
     const handle = (e) => {
         e.target.value = handler(e.target.value);
         ref.current = e.target.value;
+        stateUpdateFunction(e.target.value)
     }
     return handle
 }

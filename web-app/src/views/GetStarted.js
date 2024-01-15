@@ -8,7 +8,7 @@ import { SIGNUP, LOGIN } from '../utils/navigationRoutes';
 const GetStarted = () => {
     return (
         <div className='welcome'>
-            <div className='logo-image'><img src={ cpaylogo} /></div>
+            <div className='logo-image'><img src={ cpaylogo} alt='cpay logo' /></div>
             <div className='lable'><span >
 The easy way to pay at 700+<br/>
                 stores and websites.</span></div>

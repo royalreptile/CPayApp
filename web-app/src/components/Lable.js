@@ -1,7 +1,7 @@
 import React from 'react';
 import InfoIcon from "../svg/InfoIcon"
 
-const Lable = ({firstLine="setup your",secondLine="cpay account"}) => {
+const Lable = ({firstLine="Set Up Your",secondLine="CPAY Account"}) => {
     return (
         <div className='lable-div'>
             <div className='row'>

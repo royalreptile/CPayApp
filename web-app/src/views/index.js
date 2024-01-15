@@ -10,6 +10,7 @@ import EnrollingInCpay from "./EnrollingInCpay.jsx";
 import TellusMore from "./TellusMore.jsx";
 import EnterLastFourDigits from "./EnterLasFourDigits.jsx";
 import Page404 from "./404.jsx";
+import TermsAndConditions from "./TermsAndConditions.jsx";
 
 
 const routes = [
@@ -25,7 +26,7 @@ const routes = [
     { path: '/verify-age', element: <VerifyAge /> },
     { path: '/enrolling', element: <EnrollingInCpay /> },
     {path:'/tell-us-more',element:<TellusMore/>},
-    { path: '/enter-last-four-digits', element: <EnterLastFourDigits /> },
+    { path: '/enter-last-four-digits', element: <EnterLastFourDigits /> },{path:'/terms-and-conditions', element:<TermsAndConditions/>},
     {path:'*',element:<Page404 />}
 ]
 export default routes;

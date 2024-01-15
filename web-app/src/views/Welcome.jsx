@@ -11,7 +11,7 @@ const Welcome = () => {
     return (
         <div className='welcome'>
             <div className='logo'>
-                <div><img src={cpaylog} /></div>
+                <div><img src={cpaylog} alt='cpay logo' /></div>
             </div >
             <div className='plane'><img src={plane} /></div>
             <div className='lable'><span>Sign up for the new <br/> Cpay App</span></div>
